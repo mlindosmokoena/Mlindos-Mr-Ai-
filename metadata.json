@@ -1,0 +1,10 @@
+{
+  "name": "Mlindos Mr Ai voice 🌍",
+  "description": "Worldwide AI voice assistant with futuristic mobile design, voice recognition, intelligent conversational speech, and multi-language support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
